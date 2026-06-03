@@ -43,21 +43,13 @@ A polished, production-quality desktop application for computing and exploring a
 
 ### Themes
 You now get **6 themes** in a dropdown in the header:
-
 | Theme | Vibe |
-
-|-------|------|
-
+|--------|--------|
 | **Midnight** | Deep navy/purple |
-
 | **Aurora** | Dark forest green with teal glow |
-
 | **Crimson** | Dark red with orange fire |
-
 | **Ocean** | Deep blue with sky blue accents |
-
 | **Sunlight** | Warm parchment light mode |
-
 | **Arctic** | Clean ice-white light mode |
 
 ### Undefined Handling
