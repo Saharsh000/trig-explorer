@@ -42,9 +42,23 @@ A polished, production-quality desktop application for computing and exploring a
 - **Copy All** — copies a formatted block with ratio, angle, all units, value, and exact form
 
 ### Themes
-- **Dark Mode** (default) — deep navy/purple palette
-- **Light Mode** — clean white/lavender palette
-- Toggle switch in the header bar
+You now get **6 themes** in a dropdown in the header:
+
+| Theme | Vibe |
+
+|-------|------|
+
+| **Midnight** | Deep navy/purple |
+
+| **Aurora** | Dark forest green with teal glow |
+
+| **Crimson** | Dark red with orange fire |
+
+| **Ocean** | Deep blue with sky blue accents |
+
+| **Sunlight** | Warm parchment light mode |
+
+| **Arctic** | Clean ice-white light mode |
 
 ### Undefined Handling
 Gracefully displays `"Undefined"` (in red) instead of crashing for:
@@ -90,7 +104,7 @@ trig_explorer/
 
 ```bash
 # 1. Clone or download the project
-git clone https://github.com/yourname/trig-explorer.git
+git clone https://github.com/Saharsh000/trig-explorer.git
 cd trig-explorer
 
 # 2. (Optional) Create a virtual environment
