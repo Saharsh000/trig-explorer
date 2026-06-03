@@ -6,14 +6,6 @@ A polished, production-quality desktop application for computing and exploring a
 
 ---
 
-## Screenshots
-
-| Dark Mode | Light Mode |
-|-----------|------------|
-| *(launch the app to see it!)* | *(toggle the switch top-right)* |
-
----
-
 ## Features
 
 ### Core
@@ -22,6 +14,7 @@ A polished, production-quality desktop application for computing and exploring a
 - **Three input units** — Degrees, Radians, Gradians (select via radio buttons)
 - **Live updating** — results refresh as you type, no button needed
 - **12 decimal place precision** for all calculated values
+- Used claude.ai to enhance the working of the project
 
 ### Angle Conversions
 - Instant conversion display in all three units (Degrees, Radians, Gradians) with 8 decimal places
