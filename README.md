@@ -3,7 +3,7 @@
 > **Explore Trigonometric Ratios for Any Angle — instantly, beautifully.**
 
 A polished, production-quality desktop application for computing and exploring all six trigonometric ratios for any angle. Built with Python 3.13+ and CustomTkinter.
-
+![App](app.png)
 ---
 
 ## Features
